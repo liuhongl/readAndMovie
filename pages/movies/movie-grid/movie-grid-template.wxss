@@ -1,0 +1,10 @@
+@import '../movieList/movieList-template.wxss';
+
+.grid-container{
+  margin:  20rpx 0 40rpx 6rpx;
+  height: 1330rpx;
+}
+.movie-box{
+  float: left;
+  margin-bottom: 20rpx;
+}

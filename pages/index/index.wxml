@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class='container'>
+  <image class='user-avatar' src='/image/avator.jpg'></image>
+  <text class='user-name'>hello,<text style='color:red'>小飞侠</text></text>
+  <view>
+  <view class='moto-container' bindtap='ontap'>
+    <text class='moto'>start wechat</text>
+  </view>
+  </view>
+</view> 
